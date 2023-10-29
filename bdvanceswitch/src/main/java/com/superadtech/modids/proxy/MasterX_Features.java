@@ -52,7 +52,6 @@ public class MasterX_Features extends AppCompatActivity implements LoginDialog.L
     protected static final String TAG = MasterX_Features.class.getSimpleName();
     Const_Preference constPreference;
     boolean connected = false;
-
     private Handler mUIHandler = new Handler(Looper.getMainLooper());
 
     final Runnable mUIUpdateRunnable = new Runnable() {
@@ -137,6 +136,7 @@ public class MasterX_Features extends AppCompatActivity implements LoginDialog.L
                         if (!connected) {
                             connected = true;
                         }
+                        finish();
                         break;
                     }
                     case CONNECTING_VPN:
