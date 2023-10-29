@@ -1,5 +1,7 @@
 package com.superadtech.modids.proxy;
 
+import static com.superadtech.modids.MyAdZOne.VPN_OFF_When_App_Close;
+import static com.superadtech.modids.MyAdZOne.VPN_OFF_When_App_Close_Feature;
 import static com.superadtech.modids.MyAdZOne.VPN_SERVER_NAME_TO_CONNECT_FEATURE;
 import static com.superadtech.modids.proxy.Const_Preference.Vpn_States;
 import static com.superadtech.modids.proxy.CountryData.COUNTRY_DATA;
@@ -493,6 +495,12 @@ public class MasterX_Features extends AppCompatActivity implements LoginDialog.L
 
     @Override
     public void onBackPressed() {
+        if (VPN_OFF_When_App_Close_Feature.equalsIgnoreCase("true")) {
+            disconnectFromVnp();
+            moveTaskToBack(true);
+            android.os.Process.killProcess(android.os.Process.myPid());
+            finish();
+        }
         disconnectFromVnp();
         moveTaskToBack(true);
         android.os.Process.killProcess(android.os.Process.myPid());
@@ -502,6 +510,11 @@ public class MasterX_Features extends AppCompatActivity implements LoginDialog.L
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        disconnectFromVnp();
+        if (VPN_OFF_When_App_Close_Feature.equalsIgnoreCase("true")) {
+            disconnectFromVnp();
+            moveTaskToBack(true);
+            android.os.Process.killProcess(android.os.Process.myPid());
+            finish();
+        }
     }
 }
