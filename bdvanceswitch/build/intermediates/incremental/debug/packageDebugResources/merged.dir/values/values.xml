@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ad_text_secondary">#A8000000</color>
+    <color name="black">#000000</color>
+    <color name="gnt_gray">#A1A1A1</color>
+    <color name="purple_200">#000000</color>
+    <color name="purple_500">#000000</color>
+    <color name="purple_700">#000000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#ffffff</color>
+    <dimen name="gnt_ad_indicator_height">15dp</dimen>
+    <dimen name="gnt_ad_indicator_text_size">10sp</dimen>
+    <dimen name="gnt_ad_indicator_top_margin">0dp</dimen>
+    <dimen name="gnt_ad_indicator_width">20dp</dimen>
+    <dimen name="gnt_default_margin">2dp</dimen>
+    <dimen name="gnt_no_margin">0dp</dimen>
+    <dimen name="gnt_no_size">0dp</dimen>
+    <dimen name="gnt_small_margin">1dp</dimen>
+    <dimen name="gnt_text_size_large">14sp</dimen>
+    <dimen name="gnt_text_size_small">12sp</dimen>
+    <string name="app_name">Application</string>
+    <style name="AppTheme.Transparent" parent="Theme.AppCompat.Translucent">
+        
+    </style>
+    <style name="Theme.AppCompat.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="Transparent" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+    <style name="appRatingBar" parent="@style/Transparent">
+        <item name="colorControlActivated">#ffcd43</item>
+        <item name="colorControlNormal">#cccccc</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IN_GL_FN_Ads</string>
+    <string name="GPSAlertDialogTitle">Title</string>
+    <string name="GPSAlertDialogMessage">Msg</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">cancel</string>
+</resources>

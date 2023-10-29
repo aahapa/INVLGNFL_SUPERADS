@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.superadtech.adsmodel.app-mergeDebugResources-49:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\harry\\.gradle\\caches\\transforms-3\\a40e1250b02f417d832ce00a94db772c\\transformed\\material-1.9.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}
