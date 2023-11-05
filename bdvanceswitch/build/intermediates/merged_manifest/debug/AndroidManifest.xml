@@ -15,10 +15,9 @@
     <application
         android:name="com.superadtech.modids.Applicationclass"
         android:allowBackup="true"
-        android:icon="@drawable/logo"
-        android:label="@string/app_name"
-        android:roundIcon="@drawable/logo"
-        android:supportsRtl="true" >
+        android:supportsRtl="true"
+        android:theme="@style/Splash_Transparent"
+        android:usesCleartextTraffic="true" >
         <activity
             android:name="com.superadtech.modids.proxy.MasterX"
             android:exported="true"

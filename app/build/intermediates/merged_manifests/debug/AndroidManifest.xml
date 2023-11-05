@@ -87,13 +87,15 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.FinalProject" >
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+        android:usesCleartextTraffic="true" >
         <activity
             android:name="com.superadtech.adsmodel.MainActivity2"
             android:exported="false" />
         <activity
             android:name="com.superadtech.adsmodel.MActivity"
-            android:exported="true" >
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -92,7 +92,10 @@ raw ad_loading
 raw nointernet
 raw updatingstyle
 string app_name
+style AppTheme_NoActionBar
 style AppTheme_Transparent
+style Splash_Transparent
 style Theme_AppCompat_Translucent
+style Theme_AppCompat_Translucent_Splash
 style Transparent
 style appRatingBar

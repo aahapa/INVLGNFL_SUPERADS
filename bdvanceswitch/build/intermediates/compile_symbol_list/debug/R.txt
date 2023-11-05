@@ -91,7 +91,10 @@ int raw ad_loading 0x0
 int raw nointernet 0x0
 int raw updatingstyle 0x0
 int string app_name 0x0
+int style AppTheme_NoActionBar 0x0
 int style AppTheme_Transparent 0x0
+int style Splash_Transparent 0x0
 int style Theme_AppCompat_Translucent 0x0
+int style Theme_AppCompat_Translucent_Splash 0x0
 int style Transparent 0x0
 int style appRatingBar 0x0

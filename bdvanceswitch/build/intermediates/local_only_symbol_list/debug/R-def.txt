@@ -93,7 +93,10 @@ raw ad_loading
 raw nointernet
 raw updatingstyle
 string app_name
+style AppTheme.NoActionBar
 style AppTheme.Transparent
+style Splash_Transparent
 style Theme.AppCompat.Translucent
+style Theme.AppCompat.Translucent.Splash
 style Transparent
 style appRatingBar

@@ -1,20 +1,20 @@
-#Sun Oct 29 14:08:15 IST 2023
-base.0=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\7\\classes.dex
-base.2=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.4=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.5=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
-base.6=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes2.dex
-base.7=C\:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\10\\classes.dex
+#Sun Nov 05 13:44:17 IST 2023
+base.0=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\10\\classes.dex
+base.2=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\7\\classes.dex
+base.3=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.4=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.5=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.6=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.7=C\:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes2.dex
 path.0=classes.dex
-path.1=7/classes.dex
-path.2=0/classes.dex
-path.3=11/classes.dex
-path.4=classes2.dex
-path.5=classes3.dex
-path.6=0/classes2.dex
-path.7=10/classes.dex
+path.1=10/classes.dex
+path.2=7/classes.dex
+path.3=0/classes.dex
+path.4=11/classes.dex
+path.5=classes2.dex
+path.6=classes3.dex
+path.7=0/classes2.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex

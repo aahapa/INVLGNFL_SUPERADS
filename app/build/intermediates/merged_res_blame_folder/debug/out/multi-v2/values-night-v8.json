@@ -4,25 +4,6 @@
             "outputFile": "com.superadtech.adsmodel.app-mergeDebugResources-49:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "835"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1330"
-                    }
-                },
-                {
                     "source": "C:\\Users\\harry\\.gradle\\caches\\transforms-3\\9c44b4cae48c014d37fefd384e823b82\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -40,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\harry\\Desktop\\GLFN_SUPERDS\\bdvanceswitch\\build\\intermediates\\packaged_res\\debug\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\bdvanceswitch\\build\\intermediates\\packaged_res\\debug\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,11",
                         "startColumns": "4,4",
@@ -73,6 +54,25 @@
                         "startOffsets": "1335,1410,1521,1610,1711,1818,1925,2024,2131,2234,2322,2446,2548,2650,2766,2868,2982,3110,3226,3348,3484,3604,3738,3858,3970,4185,4770,4894,5024,5146,5284,5418,5534",
                         "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "1405,1516,1605,1706,1813,1920,2019,2126,2229,2317,2441,2543,2645,2761,2863,2977,3105,3221,3343,3479,3599,3733,3853,3965,4091,4297,4889,5019,5141,5279,5413,5529,5649"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\harry\\Desktop\\INVNGLFN_SUPERDS\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "835"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1330"
                     }
                 }
             ]
